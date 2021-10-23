@@ -1,0 +1,51 @@
+.img-circle {
+    border-radius: 25px;
+  }
+  span {
+   left:0;
+   text-align:center;
+   width:100%;
+   background:rgba(255,255,255,0.5);
+   bottom:0;
+   padding:20px 0;
+  }
+  .img-thumbnail {
+  width: 20%;
+  border-radius: 25px;
+  display:inline-block;
+  background:grey;
+  padding:20px;
+   }
+  .img-thumbnail > div {
+  display:inline-block;
+  overflow: hidden;
+  height: 90px;
+  }
+  .button {
+    display: inline-block;
+    border-radius: 2px;
+    background-color: #424242;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 180px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .bywhobox {
+    width: 18%;
+    border-radius: 25px;
+    display:inline-block;
+    background:#424242;
+    padding:20px;
+  }
+  .centered {
+    position: fixed;
+    top: 62%;
+    left: 10%;
+    margin-top: -50px;
+    margin-left: -100px;
+  }
